@@ -20,6 +20,7 @@
     flex-direction:column;
     width: 75%;
 }
+
 #city-block {
     border-style: solid;
     border-width: 3px;
@@ -29,9 +30,7 @@
 
 .city-info {
     display:inline-block;
-
 }
-
 
 #btn {
     width: 190px;
